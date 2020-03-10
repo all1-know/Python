@@ -23,3 +23,5 @@ We're on [Gitter](https://gitter.im/TheAlgorithms)! Please join us.
 ## List of Algorithms
 
 See our [directory](DIRECTORY.md).
+
+廉扬到此一游！
